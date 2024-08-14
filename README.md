@@ -1,8 +1,8 @@
-Hi there! 👋 I'm [Your Name]
+Hi there! 👋 I'm Lohith
 Welcome to my GitHub profile! I'm a passionate Front-End Developer with a strong foundation in web technologies and a keen interest in building responsive and user-friendly web applications. Here’s a bit more about me:
 
 🚀 About Me
-🎓 Education: [Your Degree] in [Your Major] from [Your University].
+🎓 Education: BSC in Computer Science from Poornaprajna college udupi.
 💻 Skills:
 Languages: HTML, CSS, JavaScript
 Frameworks & Libraries: React, Next.js
@@ -14,10 +14,9 @@ Tools: Git, GitHub, VS Code
 🛠️ Projects
 Here are some of the projects I’ve worked on:
 
-Project 1: [Project Name]
-Description: A brief description of the project.
+Project 1: [MyPayLink].
+Description: myPayLink is a streamlined payment application designed to simplify transactions for users. It allows individuals and businesses to securely send and receive payments with ease. The app features a user-friendly interface, enabling quick setup and seamless transactions. With built-in security measures, myPayLink ensures that all transactions are safe and reliable.
 Tech Stack: Next.js, Tailwind CSS, Ant Design, Git.
-Live Demo: [Link to the live project, if available]
 GitHub Repository: [Link to the repository]
 Project 2: [Project Name]
 Description: A brief description of the project.
