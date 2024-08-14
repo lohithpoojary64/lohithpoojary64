@@ -17,7 +17,7 @@ Here are some of the projects I’ve worked on:
 Project 1: [MyPayLink].
 Description: myPayLink is a streamlined payment application designed to simplify transactions for users. It allows individuals and businesses to securely send and receive payments with ease. The app features a user-friendly interface, enabling quick setup and seamless transactions. With built-in security measures, myPayLink ensures that all transactions are safe and reliable.
 Tech Stack: Next.js, Tailwind CSS, Ant Design, Git.
-GitHub Repository: [Link to the repository]
+GitHub Repository: https://github.com/lohithpoojary64/MyPayLink
 Project 2: [Project Name]
 Description: A brief description of the project.
 Tech Stack: Next.js, Tailwind CSS, Ant Design, Git.
