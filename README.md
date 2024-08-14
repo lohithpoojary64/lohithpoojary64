@@ -24,8 +24,8 @@ Tech Stack: Next.js, Tailwind CSS, Ant Design, Git.
 Live Demo: [Link to the live project, if available]
 GitHub Repository: [Link to the repository]
 📫 How to Reach Me
-Email: [Your Email Address]
-LinkedIn: [Your LinkedIn Profile]
-Portfolio: [Link to your personal portfolio, if available]
+Email: lohithpoojary64@gmail.com.
+LinkedIn:
+Portfolio:
 🌟 Fun Fact
 I’m always up for a coding challenge and love to keep up with the latest trends in front-end development!
