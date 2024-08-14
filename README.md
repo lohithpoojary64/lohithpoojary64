@@ -25,7 +25,7 @@ Live Demo: [Link to the live project, if available]
 GitHub Repository: [Link to the repository]
 📫 How to Reach Me
 Email: lohithpoojary64@gmail.com.
-LinkedIn: https://lohithpoojary64.github.io/portfolio/
-Portfolio:
+LinkedIn: 
+Portfolio: https://lohithpoojary64.github.io/portfolio/
 🌟 Fun Fact
 I’m always up for a coding challenge and love to keep up with the latest trends in front-end development!
