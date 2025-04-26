@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Hi+there!+👋+I'm+Lohith;Front-End+Developer; React+|+Next.js+|+Tailwind+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Hi+there!+👋+I'm+Lohith;Front-End+Developer;React+|+Next.js+|+Tailwind+Lover" alt="Typing SVG" />
 
 </div>
 
