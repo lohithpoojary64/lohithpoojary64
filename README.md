@@ -1,5 +1,8 @@
 
-Hi there! 👋 I'm Lohith
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Hi+there!+👋+I'm+Lohith;Front-End+Developer;React+|+Next.js+|+Tailwind+Lover" alt="Typing SVG" />
+</p>
+
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B42C&width=435&lines=Front-End+Developer;React+%7C+Next.js+Enthusiast;Building+Modern+Web+Apps" alt="Typing SVG" /> </div>
 🚀 About Me
 🎓 Education: BSC in Computer Science — Poornaprajna College, Udupi
@@ -20,20 +23,26 @@ Tools: Git, GitHub, VS Code
 
 🤝 Looking to Collaborate: React / Next.js / Modern UI projects!
 
-🛠️ Projects
-🚀 MyPayLink
-Description:
-A streamlined payment app enabling secure, easy transactions for users and businesses.
-Features: Quick setup | Seamless transactions | Built-in security.
 
-Tech Stack: Next.js, Tailwind CSS, Ant Design, Git
+## 🛠️ Projects
 
-🔗 GitHub: MyPayLink Repository
+### [MyPayLink](https://github.com/lohithpoojary64/MyPayLink)
+> A streamlined payment app for easy transactions.  
+> 🛠️ Tech Stack: Next.js, Tailwind CSS, Ant Design
 
-🚧 Project 2 (Coming Soon!)
-Description: A brief description of your next project.
+### Project 2 (Coming Soon!)
 
-Tech Stack: Next.js, Tailwind CSS, Ant Design, Git
+---
+
+## 📫 Connect with Me
+- Email: [lohithpoojary64@gmail.com](mailto:lohithpoojary64@gmail.com)
+- Portfolio: [lohithpoojary64.github.io/portfolio](https://lohithpoojary64.github.io/portfolio)
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300px" />
+</p>
 
 🔗 Live Demo: (Link to demo if available)
 
