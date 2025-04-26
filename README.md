@@ -42,6 +42,3 @@ Tech Stack: Next.js, Tailwind CSS, Ant Design, Git
 
 🔗 Portfolio: Visit my Portfolio 🚀
 
-<div align="center"> <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" /> </div>
-🌟 Fun Fact
-I’m always up for a coding challenge and love keeping up with the latest front-end trends!
